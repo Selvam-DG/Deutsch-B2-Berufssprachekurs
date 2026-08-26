@@ -134,7 +134,10 @@ All trademarks, examination names, book titles, and copyrighted materials belong
 ## Status
 
 **Course:** In progress
+
 **Target:** German B2
+
 **Final examination:** telc Deutsch B2
+
 **Exam date:** 14 November
 
