@@ -1,17 +1,12 @@
 ---
 course_week: 1
-excerpt: Wortschatz Auftakt Deutsch Erklärung / Synonym (Deutsch) Englisch die Kita,
-  -s Kindergarten; Betreuung für kleine Kinder daycare center, nursery halbtags arbeiten
-  nur einen Teil des Tages arbeiten to work half days; to w…
+excerpt: Kapitel-1 Wortschatz
 format_version: 1
 lesson_date: '2026-06-15'
-practice_categories:
-- vocabulary
-- homework
-- speaking
-slug: vorstellung-kapitel-1-wortschatz-2026-06-15
-status: private
-title: Vorstellung - Kapitel 1 Wortschatz
+practice_categories: []
+slug: kapitel-1-wortschatz
+status: published
+title: Kapitel-1 Wortschatz
 vocabulary: []
 ---
 
