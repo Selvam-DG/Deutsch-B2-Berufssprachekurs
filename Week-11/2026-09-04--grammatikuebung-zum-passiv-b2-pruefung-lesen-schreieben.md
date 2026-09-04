@@ -20,10 +20,6 @@ title: Grammatikübung zum Passiv- B2 Prüfung -Lesen und Schreiben
 vocabulary: []
 ---
 
-## Excerpt
-
-Zu Beginn präsentierte **Valeri Sprechen Teil 1 der B2-Prüfung** zum Thema **„Ereignisse und Erfahrungen, die die Berufswahl beeinflusst haben“**. Anschließend erhielten wir die gestern geschriebene E-Mail von der Lehrerin korrigiert zurück. Dabei wurden unsere Fehler erklärt und die richtigen Lösungen gemeinsam besprochen. Danach gingen wir die Lösungen der Hausaufgaben vom Vortag durch. Anschließend bearbeiteten wir ein Arbeitsblatt mit **Grammatikübungen zum Passiv**. Zum Schluss übten wir den Prüfungsteil **Lesen und Schreiben**, bei dem beide Fertigkeiten miteinander verbunden werden: Zuerst lasen wir eine E-Mail zu den Aufgaben **19 und 20**, anschließend sollten wir in **Aufgabe 21** eine passende Antwort-E-Mail schreiben.
-
 ## Thema
 
 * Zu Beginn präsentierte **Valeri Sprechen Teil 1 der B2-Prüfung**.
